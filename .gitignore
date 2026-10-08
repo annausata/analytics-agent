@@ -1,0 +1,21 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local tooling
+.claude/settings.local.json
+.streamlit/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
